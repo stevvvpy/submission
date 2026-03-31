@@ -19,7 +19,7 @@ scaler_GDP = joblib.load("model/scaler_GDP.joblib")
 scaler_Inflation_rate = joblib.load("model/scaler_Inflation_rate.joblib")
 scaler_Previous_qualification_grade = joblib.load("model/scaler_Previous_qualification_grade.joblib")
 scaler_Previous_qualification = joblib.load("model/scaler_Previous_qualification.joblib")
-scaler_scholarship_holder = joblib.load("model/scaler_scholarship_holder.joblib")
+scaler_scholarship_holder = joblib.load("model/scaler_Scholarship_holder.joblib")
 scaler_Tuition_fees_up_to_date = joblib.load("model/scaler_Tuition_fees_up_to_date.joblib")
 scaler_Unemployment_rate = joblib.load("model/scaler_Unemployment_rate.joblib")
 
