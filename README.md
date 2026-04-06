@@ -48,7 +48,7 @@ Dashboard yang dibuat adalah dashboard untuk monitoring mahasiswa dari segi ekon
 ## Menjalankan Sistem Machine Learning
 Untuk menjalankan prototype sistem machine learning, dapat mengakses link berikut:
 ```
-
+https://submission-rqliaz6rjjwjzcbmd5w32z.streamlit.app/
 ```
 
 Setelah itu masukkan data-data mahasiswa yang nantinya akan masuk ke dalam tabel tersebut.Setelah itu, tekan prediksi. Setelah melalui proses singkat, akan muncullah prediksi statusnya. Selain itu, tabel untuk prosesnya juga ada yaitu tabel PCA (Principal Component ANalysis)
